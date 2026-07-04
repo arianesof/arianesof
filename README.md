@@ -1,3 +1,14 @@
+👋 Olá! Eu sou Ari
+
+Analista de Dados
+
+
+🧠 Sobre Mim
+
+Me chamo Ariane Sousa, tenho 22 anos e sou natural de Belém do Pará, porém hoje vivo em Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. Sou apaixonada por tecnologia e dados.
+
+💻 Linguagens e Tecnologias
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -25,13 +36,4 @@
   <a href="https://www.linkedin.com/in/ariane-sousa-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianesof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
