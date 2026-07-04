@@ -1,39 +1,118 @@
-👋 Olá! Eu sou Ari
+<div align="center">
 
-Analista de Dados
+# 👋 Olá! Eu sou Ariane Sousa
 
+### 📊 Analista de Dados | Python | SQL | Power BI
 
-🧠 Sobre Mim
+</div>
 
-Me chamo Ariane Sousa, tenho 22 anos e sou natural de Belém do Pará, porém hoje vivo em Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. Sou apaixonada por tecnologia e dados.
+---
 
-💻 Linguagens e Tecnologias
+## 👩‍💻 Sobre Mim
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+Sou **Ariane Sousa**, estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília (UCB)** e apaixonada por tecnologia, dados e resolução de problemas.
+
+Atualmente desenvolvo projetos utilizando **Python, SQL, Power BI e Excel**, transformando dados em informações úteis para apoiar decisões.
+
+Meu objetivo é crescer profissionalmente na área de Dados, aprofundando meus conhecimentos em **Engenharia de Dados, Machine Learning e Ciência de Dados**.
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,html,css,javascript"/>
+
 </p>
-📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=arianesof&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-<br/>
-<br/>
-🔗 Contato
+<p align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ariane-sousa-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 </p>
+
+---
+
+## 📚 Atualmente estudando
+
+- 📈 Estatística
+- 🐍 Python para Análise de Dados
+- 🗄️ SQL Avançado
+- ☁️ Engenharia de Dados
+- 🤖 Machine Learning
+- 📊 Visualização de Dados
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arianesof&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianesof&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=arianesof&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arianesof&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arianesof&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ariane-sousa-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💜 "Transformando dados em decisões inteligentes."
+
+<img src="https://komarev.com/ghpvc/?username=arianesof&style=for-the-badge&color=6C63FF"/>
+
+</div>
