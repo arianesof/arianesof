@@ -10,10 +10,10 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou Ariane Sousa, formada em Análise e Desenvolvimento de Sistemas e atualmente pós-graduanda em Ciência de Dados e Inteligência Artificial pela PUC Goiás.
-Tenho interesse genuíno por tecnologia e pelo universo dos dados, e gosto de transformar informações em soluções que apoiem decisões, automatizem processos e gerem valor real para o negócio.
-Atualmente, atuo com Python, SQL, Power BI e banco de dados, ao mesmo tempo em que aprofundo meus estudos em Engenharia de Dados, com foco em ferramentas como Docker, Apache Airflow, Databricks e Linux.
-Meu objetivo é construir uma carreira sólida na área de Dados, entregando soluções escaláveis e me desenvolvendo continuamente por meio de projetos práticos e aprendizado constante.
+Sou **Ariane Sousa**, formada em **Análise e Desenvolvimento de Sistemas** e atualmente pós-graduanda em **Ciência de Dados e Inteligência Artificial** pela **PUC Goiás**.
+Atualmente desenvolvendo projetos utilizando **Python, SQL, Power BI e Banco de Dados**, enquanto aprofundo meus conhecimentos em **Engenharia de Dados**, estudando ferramentas como **Docker, Apache Airflow, Databricks e Linux**.
+
+Meu objetivo é construir uma carreira sólida na área de Dados, contribuindo com soluções escaláveis e evoluindo continuamente através de projetos práticos e aprendizado constante.
 
 ---
 
@@ -58,8 +58,8 @@ PUC Goiás
 - 📊 Engenharia de Dados
 - 📈 Estatística aplicada à Ciência de Dados
 
----
 
+---
 
 ## 📊 Estatísticas
 
@@ -91,7 +91,7 @@ PUC Goiás
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ariane.sp.sousa@gmail.com">
+<a href="mailto:SEUEMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
