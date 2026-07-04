@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Ariane Sousa
 
-### 📊 Analista de Dados | Python | SQL | Power BI
+### 📊 Analista de Dados | Python • SQL • Power BI • Engenharia de Dados
 
 </div>
 
@@ -10,44 +10,94 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou **Ariane Sousa**, estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília (UCB)** e apaixonada por tecnologia, dados e resolução de problemas.
+Sou **Ariane Sousa**, formada em **Análise e Desenvolvimento de Sistemas** e atualmente pós-graduanda em **Ciência de Dados e Inteligência Artificial** pela **PUC Goiás**.
 
-Atualmente desenvolvo projetos utilizando **Python, SQL, Power BI e Excel**, transformando dados em informações úteis para apoiar decisões.
+Sou apaixonada por tecnologia e pelo universo dos dados. Gosto de transformar informações em soluções que apoiem decisões, automatizem processos e gerem valor através da análise de dados.
 
-Meu objetivo é crescer profissionalmente na área de Dados, aprofundando meus conhecimentos em **Engenharia de Dados, Machine Learning e Ciência de Dados**.
+Atualmente desenvolvo projetos utilizando **Python, SQL, Power BI e Banco de Dados**, enquanto aprofundo meus conhecimentos em **Engenharia de Dados**, estudando ferramentas como **Docker, Apache Airflow, Databricks e Linux**.
+
+Meu objetivo é atuar na área de Dados, contribuindo com soluções escaláveis e evoluindo continuamente por meio de projetos práticos e aprendizado constante.
 
 ---
 
 ## 🚀 Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,linux,git,github,vscode,html,css,javascript"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- 📈 Estatística
-- 🐍 Python para Análise de Dados
+- 🐳 Docker
+
+- 🔄 Apache Airflow
+
+- ☁️ Databricks
+
+- 🐧 Linux
+
 - 🗄️ SQL Avançado
-- ☁️ Engenharia de Dados
-- 🤖 Machine Learning
-- 📊 Visualização de Dados
+
+- 🐍 Python para Engenharia de Dados
+
+- 📈 Estatística aplicada à Ciência de Dados
+
+---
+
+## 🎓 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+
+Universidade Católica de Brasília (UCB)
+
+📚 **Pós-graduação em Ciência de Dados e Inteligência Artificial** *(Em andamento)*
+
+Pontifícia Universidade Católica de Goiás (PUC Goiás)
+
+---
+
+## 📂 Projetos em destaque
+
+### 🌦️ Pipeline ETL de Dados Meteorológicos
+
+Projeto desenvolvido para colocar em prática conceitos de Engenharia de Dados.
+
+**Tecnologias utilizadas**
+
+- Python
+- Docker
+- Apache Airflow
+- PostgreSQL
+- API OpenWeather
+- Databricks (em evolução)
+
+**Objetivos**
+
+✔ Extração de dados via API
+
+✔ Transformação dos dados
+
+✔ Orquestração com Airflow
+
+✔ Armazenamento em PostgreSQL
+
+✔ Evolução para processamento no Databricks
 
 ---
 
@@ -55,15 +105,15 @@ Meu objetivo é crescer profissionalmente na área de Dados, aprofundando meus c
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arianesof&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arianesof&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianesof&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianesof&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 🔥 Contribuições
 
 <div align="center">
 
@@ -83,19 +133,9 @@ Meu objetivo é crescer profissionalmente na área de Dados, aprofundando meus c
 
 ---
 
-## 🏆 Conquistas
+## 🌎 Vamos nos conectar?
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arianesof&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-## 🌎 Onde me encontrar
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/ariane-sousa-/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -105,13 +145,15 @@ Meu objetivo é crescer profissionalmente na área de Dados, aprofundando meus c
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💜 "Transformando dados em decisões inteligentes."
+## 💜 Objetivo
+
+Transformar dados em soluções inteligentes, sempre aprendendo novas tecnologias e compartilhando conhecimento através de projetos práticos.
 
 <img src="https://komarev.com/ghpvc/?username=arianesof&style=for-the-badge&color=6C63FF"/>
 
