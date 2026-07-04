@@ -72,35 +72,6 @@ Pontifícia Universidade Católica de Goiás (PUC Goiás)
 
 ---
 
-## 📂 Projetos em destaque
-
-### 🌦️ Pipeline ETL de Dados Meteorológicos
-
-Projeto desenvolvido para colocar em prática conceitos de Engenharia de Dados.
-
-**Tecnologias utilizadas**
-
-- Python
-- Docker
-- Apache Airflow
-- PostgreSQL
-- API OpenWeather
-- Databricks (em evolução)
-
-**Objetivos**
-
-✔ Extração de dados via API
-
-✔ Transformação dos dados
-
-✔ Orquestração com Airflow
-
-✔ Armazenamento em PostgreSQL
-
-✔ Evolução para processamento no Databricks
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
